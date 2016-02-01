@@ -1,2 +1,0 @@
-alias compile='node -harmony node_modules/async-compiler/compile.js'
-alias dump='node -harmony node_modules/async-compiler/compile.js --dump-ast-only'
