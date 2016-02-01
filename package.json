@@ -1,0 +1,17 @@
+{
+  "name": "async-compiler-example",
+  "version": "1.0.0",
+  "description": "Examples for async compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "async-compiler": "^1.0.4"
+  },
+  "dependencies": {
+    "async-compiler-runtime": "^1.0.1"
+  }
+}
