@@ -1,4 +1,0 @@
-#!/bin/sh
-
-npm install /mnt/cloudstar/projects/async-compiler
-npm install /mnt/cloudstar/projects/async-compiler-runtime
