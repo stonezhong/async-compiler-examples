@@ -9,9 +9,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "async-compiler": "^1.0.4"
+    "async-compiler": "^1.0.8"
   },
   "dependencies": {
-    "async-compiler-runtime": "^1.0.1"
+    "async-compiler-runtime": "^1.0.3"
   }
 }
