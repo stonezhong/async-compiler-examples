@@ -1,8 +1,8 @@
 {
-  "name": "dropbox-lab",
+  "name": "Async Compiler Example for DropBox",
   "version": "1.0.0",
-  "description": "## 参考信息 * https://github.com/dropbox/dropbox-js * https://www.dropbox.com/developers * https://www.dropbox.com/developers/apps/info/abz7epoubqfbmvk",
-  "main": "test-old.js",
+  "description": "DropBox example for async compiler",
+  "main": "dropbox-test.js",
   "dependencies": {
     "async-compiler-runtime": "^1.0.7",
     "dropbox": "^0.10.3"
@@ -13,6 +13,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Stone Zhong",
+  "license": "MIT"
 }
