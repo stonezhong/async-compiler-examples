@@ -1,14 +1,13 @@
 # Async Compiler Examples
 
+These examples shows how "async compiler" can make it easier to write async code.
+
 For details on async compiler, see https://github.com/stonezhong/async-compiler
 
-To compiler your js code, run
-```
-node -harmony node_modules/async-compiler/compile.js --input abc.js --output def.js
-```
-It will take abc.js as input file, compile it and produce def.js
+* Please make sure you have node 5.5 installed before running these examples
 
-to run it, you need to:
-```
-node -harmony def.js
-```
+## GetStarted
+A simple example
+
+## DropBox
+An example on how to read dropbox files using async compiler

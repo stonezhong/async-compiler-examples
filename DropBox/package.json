@@ -1,0 +1,18 @@
+{
+  "name": "dropbox-lab",
+  "version": "1.0.0",
+  "description": "## 参考信息 * https://github.com/dropbox/dropbox-js * https://www.dropbox.com/developers * https://www.dropbox.com/developers/apps/info/abz7epoubqfbmvk",
+  "main": "test-old.js",
+  "dependencies": {
+    "async-compiler-runtime": "^1.0.7",
+    "dropbox": "^0.10.3"
+  },
+  "devDependencies": {
+    "async-compiler": "^1.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
