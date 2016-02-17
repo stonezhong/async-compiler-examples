@@ -1,17 +1,21 @@
 {
-  "name": "Async Compiler Example for DropBox",
+  "name": "Async-Compiler-Example-for-DropBox",
   "version": "1.0.0",
   "description": "DropBox example for async compiler",
   "main": "dropbox-test.js",
   "dependencies": {
-    "async-compiler-runtime": "^1.0.7",
+    "async-compiler-runtime": "latest",
     "dropbox": "^0.10.3"
   },
   "devDependencies": {
-    "async-compiler": "^1.0.12"
+    "async-compiler": "latest"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stonezhong/async-compiler-examples/tree/master/DropBox"
   },
   "author": "Stone Zhong",
   "license": "MIT"
