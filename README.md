@@ -9,6 +9,8 @@ For details on async compiler, see https://github.com/stonezhong/async-compiler
 ## GetStarted
 A simple example
 
+## FileSystem
+A simple example for file system operations using async compiler
+
 ## DropBox
 An example on how to read dropbox files using async compiler
-

@@ -1,0 +1,23 @@
+{
+  "name": "Async-Compiler-Example-for-FileSystem",
+  "version": "1.0.0",
+  "description": "Async Compiler for File System APIs",
+  "private": true,
+  "dependencies": {
+    "async-compiler-runtime": "latest",
+    "q-io": "^1.13.2"
+  },
+  "devDependencies": {
+    "async-compiler": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "mkdir -p build && node --harmony node_modules/async-compiler/compile.js --input main.js --output build/main.js && node --harmony build/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stonezhong/async-compiler-examples/tree/master/FileSystem"
+  },
+  "author": "Stone Zhong",
+  "license": "MIT"
+}
